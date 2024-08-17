@@ -10,6 +10,7 @@ sp_500_stocks.csv: A CSV file containing the ticker symbols of S&P 500 stocks.
 momentum_strategy.xlsx: The output Excel file that lists the top 50 momentum stocks and relevant metrics.
 
 secrets_.py: A Python file (not included) containing your IEX_CLOUD_API_TOKEN to access the IEX Cloud API.
+
 How It Works
 1. Importing Required Libraries
 The script imports necessary libraries such as pandas, numpy, requests, and others needed for data manipulation, API calls, and statistical calculations.
