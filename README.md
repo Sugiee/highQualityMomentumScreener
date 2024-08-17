@@ -1,11 +1,11 @@
-High-Quality Momentum (HQM) Stock Selection Strategy
+# High-Quality Momentum (HQM) Stock Selection Strategy
 
-Overview:
+## Overview:
 
   This project implements a High-Quality Momentum (HQM) stock selection strategy using Python. The strategy involves selecting the top 50 momentum stocks from the S&P 500 index based on their one-year, six-month, 
   three-month, and one-month price returns. The strategy then calculates the number of shares to buy for each stock based on the user's portfolio size.
 
-Project Structure:
+### Project Structure:
 
     sp_500_stocks.csv: A CSV file containing the ticker symbols of S&P 500 stocks.
 
@@ -13,7 +13,7 @@ Project Structure:
 
     secrets_.py: A Python file (not included) containing your IEX_CLOUD_API_TOKEN to access the IEX Cloud API.
 
-How It Works:
+### How It Works:
 
   1. Importing Required Libraries
   The script imports necessary libraries such as pandas, numpy, requests, and others needed for data manipulation, API calls, and statistical calculations.
