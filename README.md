@@ -32,3 +32,7 @@
   
   6. Exporting to Excel
   The final list of stocks, along with their metrics, is exported to an Excel file (momentum_strategy.xlsx). The Excel file is formatted for better readability.
+
+###Example output:
+![image](https://github.com/user-attachments/assets/5b15cded-b4b5-49a2-9568-ae6acdd94e23)
+
